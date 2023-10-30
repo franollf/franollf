@@ -1,5 +1,6 @@
 👋 About Me
-Hi there I'm Franoll!
+
+**Hi there I'm Franoll!**
 
 I'm a First Year CS student at SFU who loves building productivity projects. Proficient in HTML, CSS, and Python, and currently learning Java.
 
