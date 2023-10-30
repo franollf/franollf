@@ -6,6 +6,7 @@ I'm a First Year CS student at SFU who loves building productivity projects. Pro
 🚀 Current Project
 
 📚 **Revise**: A flashcard app designed to supercharge your learning. Made with JavaScript, HTML, and CSS.
+
 🧩 **AI Rubiks Cube**: An AI Solver application that will give you algorithms to solver your Rubiks Cube!.
 
 📫 Get in Touch
