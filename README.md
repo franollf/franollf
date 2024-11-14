@@ -10,6 +10,4 @@ I'm a First Year CS student at SFU who loves building projects and expanding the
 
 🧩 **AI Rubiks Solver**: An application utilizing AI that will give you algorithms to solve your Rubiks Cube!.
 
-📫 Get in Touch
-
 Connect with me on [LinkedIn](https://www.linkedin.com/in/franollf) or [Instagram](https://www.instagram.com/franollf/)
