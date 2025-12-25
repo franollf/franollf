@@ -7,9 +7,15 @@ Computer Science Student • Cloud Learner
 </p>
 
 <p align="center">
-  <a href="mailto:ffa28@sfu.ca">Email</a> •
-  <a href="https://www.linkedin.com/in/franollfantu">LinkedIn</a> •
-  <a href="#">Portfolio</a>
+  <a href="mailto:ffa28@sfu.ca">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/franollf">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://your-portfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge"/>
+  </a>
 </p>
 
 ---
