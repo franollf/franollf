@@ -3,11 +3,6 @@
 </h2>
 
 <p align="center">
-Computer Science Student <br></br>
-Currently seeking 
-</p>
-
-<p align="center">
   <a href="mailto:ffa28@sfu.ca">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
