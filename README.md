@@ -1,4 +1,4 @@
-<h2 align="center">
+<<h2 align="center">
   <span style="color:#38BDF8;"><b>Franoll Fantu</b></span>
 </h2>
 
@@ -27,7 +27,19 @@ Computer Science Student • Cloud Learner
 
 ---
 
-### 💻 Languages
+### 🧠 Tech Stack
+
+<table>
+<tr>
+<th align="left">Languages</th>
+<th align="left">Frameworks</th>
+<th align="left">Databases</th>
+<th align="left">Tools</th>
+</tr>
+
+<tr>
+<td>
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat&logo=typescript)
 ![Python](https://img.shields.io/badge/Python-111827?style=flat&logo=python)
@@ -35,42 +47,40 @@ Computer Science Student • Cloud Learner
 ![C](https://img.shields.io/badge/C-111827?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/C++-111827?style=flat&logo=cplusplus)
 
----
+</td>
 
-### ⚙️ Frameworks & Libraries
+<td>
+
 ![React](https://img.shields.io/badge/React-111827?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat&logo=nextdotjs)
 ![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-111827?style=flat&logo=express)
+![Express](https://img.shields.io/badge/Express-111827?style=flat&logo=express)
 ![Redux](https://img.shields.io/badge/Redux-111827?style=flat&logo=redux)
 
----
+</td>
 
-### 🎨 Frontend & Styling
-![HTML5](https://img.shields.io/badge/HTML5-111827?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-111827?style=flat&logo=css3)
-![Sass](https://img.shields.io/badge/Sass-111827?style=flat&logo=sass)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-111827?style=flat&logo=tailwindcss)
-![MUI](https://img.shields.io/badge/MUI-111827?style=flat&logo=mui)
-![Figma](https://img.shields.io/badge/Figma-111827?style=flat&logo=figma)
+<td>
 
----
-
-### 🗄 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-111827?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=flat&logo=mongodb)
 ![Oracle](https://img.shields.io/badge/Oracle_SQL-111827?style=flat&logo=oracle)
 
----
+</td>
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-111827?style=flat&logo=amazonaws)
+<td>
+
+![Git](https://img.shields.io/badge/Git-111827?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat&logo=github)
 ![Docker](https://img.shields.io/badge/Docker-111827?style=flat&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-111827?style=flat&logo=amazonaws)
 ![Vercel](https://img.shields.io/badge/Vercel-111827?style=flat&logo=vercel)
 ![Netlify](https://img.shields.io/badge/Netlify-111827?style=flat&logo=netlify)
+![Figma](https://img.shields.io/badge/Figma-111827?style=flat&logo=figma)
 
----
+</td>
+</tr>
+</table>
 
 ### 📊 GitHub Stats
 <p align="center">
