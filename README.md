@@ -24,8 +24,9 @@
 ### About Me
 - Computer Science student with experience in **systems, algorithms, and full-stack development**
 - Interested in **cloud infrastructure and web development**
-- Comfortable working across **C/C++, Python, JavaScript, and SQL**
+- Comfortable working across **React, Python, JavaScript, and SQL**
 - I love making my life easier by making projects 
+
 
 ---
 
