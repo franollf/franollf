@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1200&color=F5F5DC&center=true&vCenter=true&width=700&lines=Franoll+Fantu;Software+Engineering+Student;Full-Stack+Developer;Backend+%26+Cloud+Focused;Always+Learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1200&color=F5F5DC&center=true&vCenter=true&width=700&lines=Franoll+Fantu;Software+Engineering+Student;Athlete;Full-Stack+Developer;Problem+Solver;Always+Learning" />
 </p>
 
 
