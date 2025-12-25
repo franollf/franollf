@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
- 💼 Currently working on ##NutriScan##
+ 💼 Currently working on <b>NutriScan</b>
   </p>
   
 ---
