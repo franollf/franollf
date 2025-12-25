@@ -2,7 +2,6 @@
 
 <p align="center">
 🎓 Computer Science Student <br/>
-☁️ Currently learning Cloud
 </p>
 
 <p align="center">
