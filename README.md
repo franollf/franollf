@@ -3,7 +3,7 @@
 </h2>
 
 <p align="center">
-Computer Science Student 
+Computer Science Student <br></br>
 Currently seeking 
 </p>
 
