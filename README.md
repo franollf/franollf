@@ -2,16 +2,17 @@
 
 <p align="center">
 🎓 Computer Science Student <br/>
+☁️ Currently learning Cloud
 </p>
 
 <p align="center">
-  <a href="mailto:your_email@gmail.com">
+  <a href="mailto:ffa28@sfu.ca">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/franollfantu">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://your-portfolio.com">
+  <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge"/>
   </a>
 </p>
@@ -59,4 +60,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=franollf&color=blue&style=flat-square" />
 </p>
-
