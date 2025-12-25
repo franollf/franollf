@@ -15,7 +15,7 @@
   </a>
 </p>
 
-<p align="center>
+<p align="center">
  - Currently working on NutriScan
   </p>
   
