@@ -81,6 +81,4 @@
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franollf&layout=compact&theme=github_dark" />
-</p>
+
