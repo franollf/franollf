@@ -28,7 +28,6 @@ Computer Science Student • Cloud Learner
 
 ---
 
-### 🧠 Tech Stack
 
 <table>
 <tr>
