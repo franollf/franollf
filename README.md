@@ -33,12 +33,12 @@ Computer Science Student • Cloud Learner
 <tr>
 <td>
 
-<img src="https://github-readme-stats.vercel.app/api?username=franollf&show_icons=true&theme=tokyonight&hide_border=true&custom_title=GitHub%20Stats" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=franollf&show_icons=true&theme=tokyonight" />
 
 </td>
 <td>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franollf&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franollf&layout=compact&theme=tokyonight" />
 
 </td>
 </tr>
