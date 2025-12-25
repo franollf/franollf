@@ -1,62 +1,55 @@
-<h1 align="center">Hi, I'm Franoll 👋</h1>
+<h2 align="center">Franoll Fantu</h2>
 
 <p align="center">
-🎓 Computer Science Student <br/>
-☁️ Currently learning Cloud
+Computer Science Student • Cloud Learner
 </p>
 
 <p align="center">
-  <a href="mailto:ffa28@sfu.ca">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/franollfantu">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge"/>
-  </a>
-</p>
-
-<p align="center">
-⚡ Fun fact: There are more stars in the universe than grains of sand on all of Earth’s beaches 🌌
+  <a href="mailto:ffa28@sfu.ca">Email</a> •
+  <a href="https://www.linkedin.com/in/franollfantu">LinkedIn</a> •
+  <a href="#">Portfolio</a>
 </p>
 
 ---
 
-## 💻 Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cpp,c,java" />
-</p>
-
-## ⚙️ Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs" />
-</p>
-
-## 🗄 Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" />
-</p>
-
-## 🛠 Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws,figma,postman" />
-</p>
+### 🧠 About
+- CS student with experience in **systems, algorithms, and full-stack development**
+- Currently exploring **cloud infrastructure & deployment**
+- Interested in **software engineering, data, and scalable systems**
 
 ---
 
-## ⚡ Stats ⚡
+### 🧩 Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=franollf&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+| Languages | Frameworks | Databases | Tools |
+|---------|-----------|-----------|-------|
+| <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c,java&size=32"/> | <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs&size=32"/> | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase&size=32"/> | <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws,postman&size=32"/> |
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franollf&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+---
+
+### 📊 GitHub Activity
+
+<table>
+<tr>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api?username=franollf&show_icons=true&theme=tokyonight&hide_border=true&custom_title=GitHub%20Stats" width="100%"/>
+
+</td>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franollf&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=franollf&color=blue&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=franollf&style=flat&color=grey"/>
+</p>
+
+<p align="center">
+<sub>“There are more stars in the universe than grains of sand on Earth.”</sub>
 </p>
