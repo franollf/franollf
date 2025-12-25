@@ -3,7 +3,8 @@
 </h2>
 
 <p align="center">
-Computer Science Student • Cloud Learner
+Computer Science Student 
+Currently seeking 
 </p>
 
 <p align="center">
