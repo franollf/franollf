@@ -1,6 +1,7 @@
-<<h2 align="center">
-  <span style="color:#38BDF8;"><b>Franoll Fantu</b></span>
-</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Franoll+Fantu;Computer+Science+Student;Cloud+Learner" />
+</p>
+
 
 <p align="center">
   <a href="mailto:ffa28@sfu.ca">
