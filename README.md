@@ -57,7 +57,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat&logo=nextdotjs)
 ![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-111827?style=flat&logo=express)
-![Redux](https://img.shields.io/badge/Redux-111827?style=flat&logo=redux)
+
 
 </td>
 
